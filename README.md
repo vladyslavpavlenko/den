@@ -4,7 +4,8 @@
 
 Version control system in pure Go.
 
-<img alt="den logo" src="assets/logo.png" width="300"/>
+<img alt="den logo" src="assets/logo.png" width="600"/>
+
 </div>
 
 ---
